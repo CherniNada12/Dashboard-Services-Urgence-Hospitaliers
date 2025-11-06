@@ -43,14 +43,20 @@ Améliorer l’efficacité opérationnelle et fournir des **informations exploit
 ## 📂 Structure du projet  
 
 Voici la structure des fichiers du projet :  
+<img width="665" height="235" alt="image" src="https://github.com/user-attachments/assets/f2a6242f-4047-4b70-82a0-efa737448a99" />
 
 
 Nada Cherni PowerBI/
 Projet/
+
      - Hospital ER_Data.csv              # Jeu de données source
+     
      - Hospital Project.pbix             # Fichier Power BI principal
+     
      - Nada Cherni 2 idsd1 powerbi.pdf   # Rapport final
+     
      - Dashboard 1.png                   # Capture du tableau de bord 1
+     
      - Dashboard 2.png                   # Capture du tableau de bord 2
      
 ---
