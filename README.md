@@ -60,7 +60,7 @@ Améliorer l’efficacité opérationnelle et fournir des **informations exploit
 - Références par département.
 
 
-![Dashboard 1](dashboard 1.png)
+![Dashboard 1](dashboard1.png)
 
 ---
 
