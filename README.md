@@ -112,18 +112,19 @@ Les groupes d’âge 20–39 ans présentent une baisse de satisfaction lors des
 
 ---
 
-## 📂 Structure du projet
+## 📂 Structure du projet  
+
 Voici la structure des fichiers du projet :  
 
+```bash
 Nada Cherni PowerBI/
-
-  Projet/
-  
-**-  Hospital ER_Data.csv** # Jeu de données source
-**-  Hospital Project.pbix** # Fichier Power BI principal
-**-  Nada Cherni 2 idsd1 powerbi.pdf** # Rapport final
-**-  Dashboard 1.png** # Capture du tableau de bord 1
-**-  Dashboard 2.png** # Capture du tableau de bord 2
+│
+└── Projet/
+    ├── Hospital ER_Data.csv              # Jeu de données source
+    ├── Hospital Project.pbix             # Fichier Power BI principal
+    ├── Nada Cherni 2 idsd1 powerbi.pdf   # Rapport final
+    ├── Dashboard 1.png                   # Capture du tableau de bord 1
+    └── Dashboard 2.png                   # Capture du tableau de bord 2
 
 
 ---
