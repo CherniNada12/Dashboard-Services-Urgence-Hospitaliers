@@ -96,13 +96,6 @@ Les groupes d’âge 20–39 ans présentent une baisse de satisfaction lors des
 
 ---
 
-## 🧠 Insights et recommandations
-- **Pic d’affluence** observé le mercredi → ajuster les équipes ce jour-là.  
-- **Corrélation négative** entre temps d’attente et satisfaction → optimiser les processus d’admission.  
-- **Population jeune (20–39 ans)** dominante → adapter la communication et les services à ce segment.  
-- **Orthopédie et Médecine Générale** les départements les plus sollicités → prévoir davantage de ressources.
-
----
 
 ## 🛠️ Outils et technologies
 - 🟡 **Power BI Desktop (.pbix)** – conception du tableau de bord  
@@ -125,17 +118,7 @@ Nada Cherni PowerBI/
     ├── Nada Cherni 2 idsd1 powerbi.pdf   # Rapport final
     ├── Dashboard 1.png                   # Capture du tableau de bord 1
     └── Dashboard 2.png                   # Capture du tableau de bord 2
-
-
 ---
 
-## 💬 Auteur
-👩‍💻 **Nada Cherni**  
-📚 Projet académique Power BI – IDSD1  
-📅 Année : 2024
-
----
-
-⭐ **N’hésitez pas à laisser une étoile sur ce projet si vous le trouvez utile !**
 
 
