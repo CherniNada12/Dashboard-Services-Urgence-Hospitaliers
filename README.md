@@ -52,7 +52,9 @@ Projet/
      - Nada Cherni 2 idsd1 powerbi.pdf   # Rapport final
      - Dashboard 1.png                   # Capture du tableau de bord 1
      - Dashboard 2.png                   # Capture du tableau de bord 2
+     
 ---
+
 ## 📊 Tableaux de bord développés  
 
 ### 🟣 **Dashboard 1 – Monthly View**
