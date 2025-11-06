@@ -114,3 +114,24 @@ Les groupes d’âge 20–39 ans présentent une baisse de satisfaction lors des
 
 ## 📂 Structure du projet
 
+**Nada Cherni PowerBI/**
+**│**
+**├── Projet/**
+**│ ├── Hospital ER_Data.csv # Jeu de données source**
+**│ ├── Hospital Project.pbix # Fichier Power BI principal**
+**│ ├── Nada Cherni 2 idsd1 powerbi.pdf # Rapport final**
+**│ └── Dashboard 1.png # Capture du tableau de bord**
+
+
+---
+
+## 💬 Auteur
+👩‍💻 **Nada Cherni**  
+📚 Projet académique Power BI – IDSD1  
+📅 Année : 2024
+
+---
+
+⭐ **N’hésitez pas à laisser une étoile sur ce projet si vous le trouvez utile !**
+
+
