@@ -59,8 +59,8 @@ Améliorer l’efficacité opérationnelle et fournir des **informations exploit
 - Répartition horaire et journalière (heatmap).  
 - Références par département.
 
+![Dashboard 1](Nada%20Cherni%20powerbi/Projet/Dashboard%201.png)
 
-![Dashboard 1](dashboard1.png)
 
 ---
 
@@ -81,7 +81,7 @@ Améliorer l’efficacité opérationnelle et fournir des **informations exploit
 
 💡 **Insight clé :**
 Les groupes d’âge 20–39 ans présentent une baisse de satisfaction lors des pics de fréquentation, indiquant un besoin d’ajustement du flux de traitement.
-![Dashboard 2](Dashboard%201.png)
+![Dashboard 1](Nada%20Cherni%20powerbi/Projet/Dashboard%202.png)
 
 ---
 
